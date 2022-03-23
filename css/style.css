@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  font-size: 13px;
+  background: #ccc;
+  color: #111;
+}
+#menu {
+  margin: 10px 15px;
+  text-align: right;
+}
+.table-total {
+  border: none;
+  border-spacing: 5;
+  padding: 5px;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0;
+}
+
+ul li a {
+  padding: 5px;
+  color: #555;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.footer {
+  float: left;
+  margin-top: 20px;
+}
+
+.footer span { 
+    color: #999;
+    font-size: 9px;
+    text-decoration: underline;
+}
